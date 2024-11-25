@@ -1,0 +1,22 @@
+{
+  "name": "post_blog",
+  "version": "1.0.0",
+  "description": "A simple blog application built with Express and EJS, allowing users to create, edit, and delete posts with title, author, and description.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["express", "ejs", "blog", "nodejs", "web-app"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
+
+
